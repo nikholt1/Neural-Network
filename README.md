@@ -37,5 +37,6 @@ These lines visualize the flow of information and weight propagation during forw
 
 ![image](https://github.com/user-attachments/assets/af7b8120-a357-4b25-973a-6e4daf677bfb)
 
-
+own note:
+Ligger under RP $ ikke DT
 
