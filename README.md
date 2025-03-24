@@ -5,7 +5,7 @@ The network takes an input vector, applies weights and biases, and uses the sigm
 Gradient descent is used to update the weights and minimize the mean squared error (MSE), improving the model's accuracy over time.
 ## Usage
 ```
-python python neural_network3.py
+python neural_network3.py
 ```
 
 
